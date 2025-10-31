@@ -1,7 +1,7 @@
 TP – Exploration de l’écosystème Docker
 1. Images Docker trouvées
 
-J’ai cherché plusieurs images sur Docker Hub pour voir lesquelles pouvaient être utiles dans mes futurs projets web et API. Voici celles que j’ai retenues 👇
+J’ai cherché plusieurs images sur Docker Hub pour voir lesquelles pouvaient être utiles dans mes futurs projets web et API.
 
 1. postgres
 
