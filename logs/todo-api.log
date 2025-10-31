@@ -1,0 +1,29 @@
+[entrypoint] 2025-10-31T11:29:31Z - Démarrage de todo-api
+{"timestamp":"2025-10-31 11:29:31,858","level":"INFO","logger":"uvicorn.error","message":"Started server process [1]"}
+{"timestamp":"2025-10-31 11:29:31,858","level":"INFO","logger":"uvicorn.error","message":"Waiting for application startup."}
+{"timestamp":"2025-10-31 11:29:31,858","level":"INFO","logger":"uvicorn.error","message":"Application startup complete."}
+{"timestamp":"2025-10-31 11:29:31,858","level":"INFO","logger":"uvicorn.error","message":"Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)"}
+{"timestamp":"2025-10-31 11:29:36,190","level":"INFO","logger":"uvicorn.access","message":"127.0.0.1:46398 - "GET /health HTTP/1.1" 200"}
+{"timestamp":"2025-10-31 11:29:43,507","level":"INFO","logger":"uvicorn.access","message":"192.168.65.1:48976 - "GET /health HTTP/1.1" 200"}
+{"timestamp":"2025-10-31 11:29:43,526","level":"INFO","logger":"uvicorn.access","message":"192.168.65.1:35271 - "POST /todos HTTP/1.1" 200"}
+{"timestamp":"2025-10-31 11:29:43,542","level":"INFO","logger":"uvicorn.access","message":"192.168.65.1:22801 - "GET /todos HTTP/1.1" 200"}
+{"timestamp":"2025-10-31 11:30:06,234","level":"INFO","logger":"uvicorn.access","message":"127.0.0.1:39078 - "GET /health HTTP/1.1" 200"}
+{"timestamp":"2025-10-31 11:30:26,095","level":"INFO","logger":"uvicorn.error","message":"Shutting down"}
+{"timestamp":"2025-10-31 11:30:26,196","level":"INFO","logger":"uvicorn.error","message":"Waiting for application shutdown."}
+{"timestamp":"2025-10-31 11:30:26,196","level":"INFO","logger":"uvicorn.error","message":"Application shutdown complete."}
+{"timestamp":"2025-10-31 11:30:26,196","level":"INFO","logger":"uvicorn.error","message":"Finished server process [1]"}
+[entrypoint] 2025-10-31T11:30:26Z - Démarrage de todo-api
+{"timestamp":"2025-10-31 11:30:27,632","level":"INFO","logger":"uvicorn.error","message":"Started server process [1]"}
+{"timestamp":"2025-10-31 11:30:27,632","level":"INFO","logger":"uvicorn.error","message":"Waiting for application startup."}
+{"timestamp":"2025-10-31 11:30:27,632","level":"INFO","logger":"uvicorn.error","message":"Application startup complete."}
+{"timestamp":"2025-10-31 11:30:27,632","level":"INFO","logger":"uvicorn.error","message":"Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)"}
+{"timestamp":"2025-10-31 11:30:32,039","level":"INFO","logger":"uvicorn.access","message":"127.0.0.1:60854 - "GET /health HTTP/1.1" 200"}
+{"timestamp":"2025-10-31 11:31:02,089","level":"INFO","logger":"uvicorn.access","message":"127.0.0.1:56040 - "GET /health HTTP/1.1" 200"}
+{"timestamp":"2025-10-31 11:31:32,153","level":"INFO","logger":"uvicorn.access","message":"127.0.0.1:56614 - "GET /health HTTP/1.1" 200"}
+{"timestamp":"2025-10-31 11:32:02,209","level":"INFO","logger":"uvicorn.access","message":"127.0.0.1:36314 - "GET /health HTTP/1.1" 200"}
+{"timestamp":"2025-10-31 11:32:32,263","level":"INFO","logger":"uvicorn.access","message":"127.0.0.1:48758 - "GET /health HTTP/1.1" 200"}
+{"timestamp":"2025-10-31 11:33:02,307","level":"INFO","logger":"uvicorn.access","message":"127.0.0.1:36600 - "GET /health HTTP/1.1" 200"}
+{"timestamp":"2025-10-31 11:33:32,354","level":"INFO","logger":"uvicorn.access","message":"127.0.0.1:37242 - "GET /health HTTP/1.1" 200"}
+{"timestamp":"2025-10-31 11:34:02,396","level":"INFO","logger":"uvicorn.access","message":"127.0.0.1:55190 - "GET /health HTTP/1.1" 200"}
+{"timestamp":"2025-10-31 11:34:32,445","level":"INFO","logger":"uvicorn.access","message":"127.0.0.1:46152 - "GET /health HTTP/1.1" 200"}
+{"timestamp":"2025-10-31 11:35:02,492","level":"INFO","logger":"uvicorn.access","message":"127.0.0.1:35516 - "GET /health HTTP/1.1" 200"}
